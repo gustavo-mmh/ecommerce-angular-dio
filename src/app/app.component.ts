@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ecommerce-angular-dio';
+  fasicon = 'ecommerce-angular-dio';
 }
